@@ -1,6 +1,6 @@
 ::===============================================================
-::
-::
+:: This script generates the given amount, read via the input
+:: parameter.
 :: @author Daniel Rasmussen.
 ::===============================================================
 @echo off
