@@ -1,0 +1,45 @@
+ Volume in drive C is OS
+ Volume Serial Number is 3C07-8D9F
+
+ Directory of C:\Program Files
+
+2017-11-27  15:33    <DIR>          .
+2017-11-27  15:33    <DIR>          ..
+2017-06-30  19:46    <DIR>          Android
+2015-04-28  08:33    <DIR>          Application Verifier
+2014-05-28  17:26    <DIR>          ASUS
+2016-01-15  16:04    <DIR>          Bonjour
+2017-11-19  10:59    <DIR>          Common Files
+2017-05-30  22:21    <DIR>          DB Browser for SQLite
+2017-09-29  19:09    <DIR>          DIFX
+2017-11-17  06:56    <DIR>          Git
+2017-11-27  15:26    <DIR>          Intel
+2017-11-20  02:24    <DIR>          internet explorer
+2017-10-29  18:10    <DIR>          Java
+2016-09-18  19:30    <DIR>          Microsoft Mouse and Keyboard Center
+2016-12-16  17:52    <DIR>          Microsoft Office 15
+2017-06-14  17:07    <DIR>          Microsoft Silverlight
+2017-11-27  15:06    <DIR>          MSBuild
+2017-11-27  15:31    <DIR>          NVIDIA Corporation
+2016-12-02  07:56    <DIR>          OpenVPN
+2017-07-09  20:02                27 plugins.dat
+2017-06-30  22:27    <DIR>          QGIS 2.16
+2017-11-27  15:10    <DIR>          Realtek
+2017-04-05  09:14    <DIR>          RealVNC
+2017-11-27  15:06    <DIR>          Reference Assemblies
+2017-11-30  15:53    <DIR>          Synergy
+2016-12-02  07:56    <DIR>          TAP-Windows
+2017-11-27  15:26    <DIR>          UNP
+2017-07-09  19:59    <DIR>          VideoLAN
+2017-11-27  15:33    <DIR>          Waves
+2017-11-20  02:23    <DIR>          Windows Defender
+2017-11-27  15:10    <DIR>          Windows Mail
+2017-11-27  15:10    <DIR>          Windows Media Player
+2017-11-19  10:59    <DIR>          Windows Multimedia Platform
+2017-11-27  16:10    <DIR>          windows nt
+2017-11-27  15:10    <DIR>          Windows Photo Viewer
+2017-11-19  10:59    <DIR>          Windows Portable Devices
+2017-11-19  10:59    <DIR>          Windows Security
+2017-11-19  10:59    <DIR>          WindowsPowerShell
+               1 File(s)             27 bytes
+              37 Dir(s)  105ÿ452ÿ789ÿ760 bytes free
